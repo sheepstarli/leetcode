@@ -2,13 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.lcx</groupId>
   <artifactId>leetcode</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0.CR1</version>
   <name>leetcode</name>
   <scm>
       <url>https://github.com/sheepstarli/leetcode</url>
       <connection>scm:git:git@github.com:sheepstarli/leetcode.git</connection>
       <developerConnection>scm:git:git@github.com:sheepstarli/leetcode.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>v1.0.0.CR1</tag>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
