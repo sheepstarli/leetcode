@@ -8,7 +8,7 @@
       <url>https://github.com/sheepstarli/leetcode</url>
       <connection>scm:git:git@github.com:sheepstarli/leetcode.git</connection>
       <developerConnection>scm:git:git@github.com:sheepstarli/leetcode.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>dev_1.2</tag>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
